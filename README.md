@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dashboard-screenshot.png" width="1000"/>
+  <img src="Mall_Customers_Sales_Dashboard_screenshot.png" width="1000"/>
 </p>
 
 ## Mall Customer Analysis & Segmentation Dashboard
